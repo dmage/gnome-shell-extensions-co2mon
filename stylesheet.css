@@ -1,0 +1,24 @@
+.co2mon-unit-label {
+	font-size: .65em;
+	padding-top: .53846em; /* .35em / .65em */
+}
+
+.co2mon-unit-subscript {
+	font-size: .45em;
+	padding-top: 1.44444em; /* .65em / .45em */
+}
+
+.co2mon-value-label {
+	font-size: .95em;
+	padding-left: .25em;
+	padding-top: .05263em; /* .05em / .95em */
+}
+
+.helloworld-label {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: .5em;
+}

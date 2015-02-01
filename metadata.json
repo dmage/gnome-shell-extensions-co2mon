@@ -1,0 +1,6 @@
+{
+	"shell-version": ["3.12", "3.14"],
+	"uuid": "co2mon@dmage.github.io",
+	"name": "CO2 Monitor",
+	"description": "Show information from CO2 monitor"
+}
