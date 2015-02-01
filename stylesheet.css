@@ -1,16 +1,20 @@
+.co2mon-panel-button {
+	padding: 0 0.25em;
+}
+
 .co2mon-unit-label {
-	font-size: .65em;
-	padding-top: .53846em; /* .35em / .65em */
+	font-size: .8em;
+	padding-top: .25em; /* (1 - .8) / .8 */
 }
 
 .co2mon-unit-subscript {
-	font-size: .45em;
-	padding-top: 1.44444em; /* .65em / .45em */
+	font-size: .55em;
+	padding-top: 1em; /* (1 - .55 + .1) / .55 */
 }
 
 .co2mon-value-label {
 	font-size: .95em;
-	padding-left: .25em;
+	padding-right: .125em;
 	padding-top: .05263em; /* .05em / .95em */
 }
 
