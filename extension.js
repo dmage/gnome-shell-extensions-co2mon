@@ -118,7 +118,7 @@ function init() {
     //                          style_class: 'system-status-icon' });
 
     proxy = new CO2MonDaemonProxy(
-        Gio.DBus.session,
+        Gio.DBus.system,
         null, //"io.github.dmage.CO2Mon",
         "/io/github/dmage/CO2Mon"
     );
